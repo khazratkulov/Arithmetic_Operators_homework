@@ -7,3 +7,7 @@
 #Print the answer.
  
 #Print the number.
+number = 23
+number /= 2
+answer = number - number%1
+print(answer)
