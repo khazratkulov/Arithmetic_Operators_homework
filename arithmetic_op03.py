@@ -6,4 +6,5 @@
 number = 12
 x1 = number%10 #7
 x2 = number//10 #1
-print(x1*10+x2)
+answer = x1*10+x2
+print(answer)
