@@ -6,4 +6,5 @@
 number = 43
 x1 = number%10 #7
 x2 = number//10 #1
-print(x1+x2)
+answer = x1+x2
+print(answer)
