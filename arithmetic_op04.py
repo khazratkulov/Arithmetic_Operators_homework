@@ -13,4 +13,5 @@ number = 123
 x1 = number%10 #3
 x2 = number%100//10 #2
 x3 = number//100
-print(x1+x3+x2)
+answer = x1+x3+x2
+print(answer)
